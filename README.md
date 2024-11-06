@@ -1,7 +1,7 @@
 # Rshell - Advanced Reverse Shell Generator
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/ErvisTusha/rshell)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3-blue.svg)](https://www.python.org/downloads/)
+[![Python](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org/downloads/)
 
 ## Overview
 
